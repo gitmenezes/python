@@ -1,2 +1,3 @@
-# Python / SEABORN
-> #### Gráficos com SEABORN a partir de um DataFrame Pandas.¶
+# Python
+> #### GRAFICOS
+> > ##### SEABORN (DataFrame Pandas)
